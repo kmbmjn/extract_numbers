@@ -1,4 +1,5 @@
 # extract_numbers
+Extract citation numbers within parenthesis such as [10, 26, 30]. This partially helps automation of daily routines.
 
 # Test example of "test.txt"
 ```
